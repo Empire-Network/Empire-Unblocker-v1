@@ -12,7 +12,7 @@ Snorlax's Cave is a UV built proxy and game site **(v1.0 Release)**
 
 ## Join our community!
 <a align="center" href="https://discord.gg/9BZ4stcEjg">
-    <img src="https://invidget.switchblade.xyz/9BZ4stcEjgtheme=dark"/>
+    <img src="https://invidget.switchblade.xyz/9BZ4stcEjg"/>
 </a>
 
 ## Hosting
