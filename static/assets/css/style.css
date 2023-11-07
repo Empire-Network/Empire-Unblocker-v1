@@ -74,7 +74,7 @@ nav {
   min-height: 8vh;
   background-color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
-  opacity: 0.6;
+  opacity: 0.3;
 }
 
 .heading {
@@ -111,26 +111,23 @@ nav {
 }
 
 .nav-links a {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
   padding: 14px 16px;
-  opacity: 1.0;
 }
 
 .nav-links a:hover:not(.active) {
   background-color: rgba(2, 55, 105, 0.637);
   border-radius: .5vw;
   transition: .3s;
-  opacity: 1.0;
 }
 
 .nav-links li a.active {
 background-color: rgba(0, 0, 0, 0.363);
 border-radius: .5vw;
-  opacity: 1.0;
 }
 
 .proxyform {
