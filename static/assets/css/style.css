@@ -24,11 +24,13 @@ body{
 p {
   font-family: "Montserrat", sans-serif;
   color: white;
+  font-weight: 900;
 }
 
 h1 {
   font-family: "Montserrat", sans-serif;
   color: white;
+  font-weight: 900;
 }
 
 button {
@@ -41,6 +43,7 @@ button {
   border: 2px solid rgb(0, 0, 0);
   transition: .2s;
   cursor: pointer;
+  font-weight: 900;
 }
 
 button:hover {
@@ -56,7 +59,7 @@ button:hover {
   align-items: center;
   justify-content: center;
   margin-top: 210px;
-
+font-weight: 900;
 }
 
 .large {
@@ -75,6 +78,7 @@ nav {
   background-color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
   opacity: 0.3;
+  font-weight: 900;
 }
 
 .heading {
@@ -155,6 +159,7 @@ border-radius: 15px;
   border-radius: 10px;
   outline: none;
   transition: .2s;
+  font-weight: 900;
 }
 
 .proxy:hover {
@@ -187,6 +192,7 @@ width: fit-content;
   text-decoration: none;
   font-size: 20px;
   transition: .1s
+  font-weight: 900;
 }
 
 .apps a:hover {
@@ -210,6 +216,7 @@ width: fit-content;
   border: transparent;
   border-radius: 15px;
   outline: none;
+  font-weight: 900;
 }
 
 .intro {
