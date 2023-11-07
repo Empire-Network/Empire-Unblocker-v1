@@ -74,6 +74,7 @@ nav {
   min-height: 8vh;
   background-color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
+  opacity: .06;
 }
 
 .heading {
