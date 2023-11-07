@@ -101,9 +101,6 @@ nav {
   width: 30%;
 }
 
-.nav-links li {
-  list-style: none;
-}
 
 .nav-links a {
   color: rgb(255, 255, 255);
@@ -120,7 +117,7 @@ nav {
   transition: .3s;
 }
 
-.nav-links li a.active {
+.nav-links  a.active {
 background-color: rgba(0, 0, 0, 0.363);
 border-radius: .5vw;
 }
