@@ -72,7 +72,8 @@ nav {
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  background-color: rgb(255, 255, 255);
+  background-color: RGB(8, 20, 12,);
+  opacity: 0.6;
   font-family: "Montserrat", sans-serif;
 }
 
