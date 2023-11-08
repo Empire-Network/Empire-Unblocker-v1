@@ -114,7 +114,7 @@ nav {
   list-style: none;
 }
 
-.nav-links a {
+.a {
   color: rgb(0, 0, 0);
   text-decoration: none;
   letter-spacing: 3px;
@@ -123,13 +123,13 @@ nav {
   padding: 14px 16px;
 }
 
-.nav-links a:hover:not(.active) {
+.a:hover:not(.active) {
   background-color: rgba(2, 55, 105, 0.637);
   border-radius: .5vw;
   transition: .3s;
 }
 
-.nav-links li a.active {
+.a.active {
 background-color: rgba(0, 0, 0, 0.363);
 border-radius: .5vw;
 }
