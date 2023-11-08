@@ -876,22 +876,26 @@ function krunker () {
 
 }  
 
+function krunker () {
 
-function ourDiscord () {
-    window.location.href = 'https://discord.gg/Cqaa8x82Ch';
-}
+    window.navigator.serviceWorker.register('/sw.js', {
+        scope: __uv$config.prefix
+    }).then(() => {
+        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://krunker.gettingoverschool.repl.co/');
+    });
+
+}  
+
+function iron () {
+
+    window.navigator.serviceWorker.register('/sw.js', {
+        scope: __uv$config.prefix
+    }).then(() => {
+        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://www.ironorder1919.com/index.php/');
+    });
+
+}  
 
 
-
-
-
-
-
-
-
-
-function pluto () {
-    window.location.href = 'https://discord.gg/obx';
-}
 
 
