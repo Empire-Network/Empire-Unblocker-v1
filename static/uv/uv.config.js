@@ -104,7 +104,7 @@ const blocked = [
 
 self.__uv$config = {
     prefix: '/students/lesson/',
-    bare: '/bare/',
+    bare: 'https://bare-server-vercel.vercel.app/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
